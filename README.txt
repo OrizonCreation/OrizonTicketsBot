@@ -17,3 +17,6 @@ Apri Install_Dependencies.bat per installare le dipendenze necessarie.
 Apri main.py e incolla il token del tuo bot alla riga 15.
 
 Quando il bot sarà online, potrai configurare il pannello dei ticket con il comando /ticketset.
+
+OFFICIAL SERVER ORIZON:
+https://dcd.gg/orizonshop
